@@ -58,20 +58,21 @@ Review comparison spec sheet
 Download full report
 
 📁 Project Structure
+## 📁 Project Structure
+
+```
 MediAudit/
 │
 ├── app.py
 ├── requirements.txt
 ├── .streamlit/
-│
 ├── data/                     # Optional uploaded policy PDFs
-│
 ├── processors/
 │   ├── claim_auditor.py
 │   ├── ocr_engine.py
 │   └── policy_engine.py
-│
 └── venv/                     # Ignored
+```
 ⚙️ Installation
 1️⃣ Clone Repository
 git clone https://github.com/HaRsH00000007/Medi_Audit.git
