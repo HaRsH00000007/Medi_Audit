@@ -73,13 +73,17 @@ MediAudit/
 │   └── policy_engine.py
 └── venv/                     # Ignored
 ```
-⚙️ Installation
-1️⃣ Clone Repository
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
 git clone https://github.com/HaRsH00000007/Medi_Audit.git
 cd Medi_Audit
-2️⃣ Create Virtual Environment
+```
+
+### Create Virtual Environment
+
+```bash
 python -m venv venv
-
-Activate:
-
-Windows:
+```
